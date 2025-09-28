@@ -1,0 +1,19 @@
+{
+    "morning": [
+        "Lisinopril 10mg (blood pressure)",
+        "Vitamin D3 1000 IU",
+        "Metformin 500mg",
+        "Baby aspirin 81mg"
+    ],
+    "afternoon": [
+        "Calcium with Vitamin D",
+        "Fish oil 1000mg",
+        "Tylenol 500mg (as needed)"
+    ],
+    "night": [
+        "Atorvastatin 20mg (cholesterol)",
+        "Melatonin 3mg",
+        "Magnesium 400mg",
+        "Omeprazole 20mg"
+    ]
+}

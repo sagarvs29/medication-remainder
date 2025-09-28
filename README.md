@@ -1,6 +1,6 @@
 # 💊 Medication Reminder App
 
-Simple medication reminder app I built to help my grandma remember her pills. She was always forgetting when to take what, so I made this voice-enabled reminder system.
+I built a simple voice-enabled medication reminder app to address a common problem among older adults — forgetting when to take their prescribed medicines. The app provides clear, spoken reminders and an easy interface to help seniors stay on track with their medications.
 
 ## What it does
 

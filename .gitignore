@@ -5,16 +5,13 @@
 # Ignore everything by default
 *
 
-# But keep these project files
+# Keep this .gitignore itself
 !.gitignore
-!README.md
-!requirements.txt
-!app.py
-!medications.json
 
-# Keep Streamlit config
-!.streamlit/
-!.streamlit/**
+# Keep only the project folder and everything inside it
+!medication-remainder/
+!medication-remainder/**
 
-# You can add more exceptions below if needed
-# !LICENSE
+# Optionally keep VS Code settings inside the project folder if present
+!.vscode/
+!.vscode/**
